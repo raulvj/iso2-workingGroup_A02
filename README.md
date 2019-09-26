@@ -1,2 +1,2 @@
 # iso2-workingGroup_A02
-This is the official repository for upload all the work that the group does.
+Welcome to the repository of the course Software Engineering 2. Here you will find all the projects, documentation and information needed about all the work done by the members of Group A02. [2019/2020]
