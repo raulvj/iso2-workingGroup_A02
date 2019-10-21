@@ -10,6 +10,8 @@ public class Tester {
 		System.out.println("\n Soy el mejor");
 		System.out.println("\n Coincido con que yo soy el mejor");
 
+		System.out.println("\n Y vinicius pa cuando?");
+
 	}
 
 }
