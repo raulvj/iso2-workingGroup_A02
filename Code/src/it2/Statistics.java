@@ -1,6 +1,6 @@
 package it2;
 
-public class iteration2 {
+public class Statistics {
 
 		/**
 		 * This value defines if the statistic will be done by workshop or by city. True implies workshop
